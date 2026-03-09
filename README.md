@@ -1,5 +1,7 @@
 # Zombie Survival Game
 
+UCSB CS32 Group Project: Siddhant Subramanian, Hung Khuu, Kevin Hernandez
+
 ## Introduction
 This project is a simple, arcade-style 2D game developed in C++ using OpenGL. In this game, players navigate a character through a field of zombies, avoiding them to survive as long as possible.
 
